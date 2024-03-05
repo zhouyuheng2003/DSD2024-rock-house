@@ -20,7 +20,7 @@ This project is for DSD, 2024 Spring. We are aiming to design an intelligent <fo
 | Yuhai Li    |          |      |      |           |        |        |
 | Yuheng Zhou |          |      |      |           |        |        |
 | pending     |          |      |      |           |        |        |
-| pengding    |          |      |      |           |        |        |
+| pending    |          |      |      |           |        |        |
 
 We are looking forward to cooperating with 2 more friends from UTAD. Member duties are negotiable with all the personnel in place. 
 
