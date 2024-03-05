@@ -1,39 +1,34 @@
 # DSD2024
 
-Brief project description and why we need more contributors.
+2024.3.5: <font color = 'red'>**We are hiring self-motivated partners from UTAD!** </font>
+
+2024.3.4: Brief introduction of 4 team members from JLU ready.
 
 ## About the Project
 
-Provide detailed information about your project, including its goals, vision, and current status. Give an overview of key features or modules to help potential contributors understand your project.
+This project is for DSD, 2024 Spring. We are aiming to design an intelligent <font color = 'red'>Treasure Exploration System </font>with users from multiple platforms. More information is coming soon after further discussion.   
 
-## How to Contribute
+## Team Member
 
-Explain how to contribute to the project, including the following steps:
+-  [Ziyu Sun](Zysun2002@github.com "Zysun's github"): A junior student from the Computer Science Department of JLU with average programming skills but good communication ability. He will try his best to be a responsible and nice team leader. (He is easy-going and passionate about working with you guys!)
+- 
 
-- Step 1
-- Step 2
-- ...
+|             | PM       | RA   | SA   | Developer | Tester | Liason |
+| ----------- | -------- | ---- | ---- | --------- | ------ | ------ |
+| Ziyu Sun    | &#10004; |      |      |           |        |        |
+| Haoyang Su  |          |      |      |           |        |        |
+| Yuhai Li    |          |      |      |           |        |        |
+| Yuheng Zhou |          |      |      |           |        |        |
+| pending     |          |      |      |           |        |        |
+| pengding    |          |      |      |           |        |        |
 
-Make sure to provide enough information for new contributors to get started quickly.
+We are looking forward to cooperating with 2 more friends from UTAD. Member duties are negotiable with all the personnel in place. 
 
-## Tech Stack
+If you are interested, please contact me on WeChat by adding friend **18252713135** (nick name "**Sparsity**" with a **Patrick Star** profile photo in the course group).
 
-List the technologies used in your project so potential contributors can understand the required skills.
+## How to contribute to the webpage
 
-## Types of Contributors We're Looking For
-
-Describe the types of contributors you're looking for. This may include:
-
-- Frontend Developers
-- Backend Developers
-- UI/UX Designers
-- Documentation Writers
-- Testers
-- ...
-
-## How to Join Us
-
-Provide detailed steps for joining your project, including:
+If you want to update the Github webpage, please follow the instructions:
 
 1. Fork this repository
 2. Clone your fork: `git clone https://github.com/your-username/project.git`
@@ -43,22 +38,3 @@ Provide detailed steps for joining your project, including:
 6. Push your branch to GitHub: `git push origin new-branch-name`
 7. Submit a Pull Request
 
-## Code Style
-
-If applicable, provide a link to your code style guide or include it directly. This helps ensure that contributors' code adheres to project standards.
-
-## Community and Communication
-
-Provide links to your community channels, such as Gitter, Slack, or Discord. This is a great place for potential contributors to interact and discuss.
-
-## License
-
-Specify the license your project uses. Ensure clarity to address any concerns contributors might have before contributing.
-
-## Difficulty Levels
-
-If possible, add difficulty level tags to tasks or issues in your project. This helps new contributors find tasks that match their skill levels.
-
----
-
-Thank you for your interest and contribution! We look forward to having you on board!
