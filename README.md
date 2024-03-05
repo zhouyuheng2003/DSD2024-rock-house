@@ -1,4 +1,4 @@
-# DSD2024
+![image](https://github.com/zhouyuheng2003/DSD2024/assets/96001530/3855450c-2e4c-4076-8189-bddd4f611181)# DSD2024
 
 2024.3.5: <font color = 'red'>**We are hiring self-motivated partners from UTAD!** </font>
 
@@ -13,6 +13,7 @@ This project is for DSD, 2024 Spring. We are aiming to design an intelligent <fo
 -  [Ziyu Sun](Zysun2002@github.com "Zysun's github"): A junior student from the Computer Science Department of JLU with average programming skills but good communication ability. He will try his best to be a responsible and nice team leader. (He is easy-going and passionate about working with you guys!)
 -  [Yuheng Zhou](https://github.com/zhouyuheng2003): Also called Henry, a junior student from the Computer Science Department of JLU. He has good programming skills and has won the gold medal in the ICPC regional competition. Though his current oral English level is moderate, he has a passion for exchanging ideas.
 -  [Haoyang Su](https://github.com/JluShy): He is a junior student at Jilin University, and his English name is Steve. While his English proficiency is moderate, he is passionate about engaging in communication and collaboration with others. He has previously served as the primary contributor in artificial intelligence-related projects.
+-  [Yuhai Li](https://github.com/yigeqianshuixiaobai): You can also called me Nick. I'm a junior student from the Computer Science Department of JLU. I have moderate programming skills and have won the bronze medal in the ICPC regional competition. My English proficiency is average, but I will do my best to complete the tasks assigned to me.
 
 |             | PM       | RA   | SA   | Developer | Tester | Liason |
 | ----------- | -------- | ---- | ---- | --------- | ------ | ------ |
