@@ -10,7 +10,7 @@ This project is for DSD, 2024 Spring. We are aiming to design an intelligent <fo
 
 ## Team Member
 
--  [Ziyu Sun](Zysun2002@github.com "Zysun's github"): A junior student from the Computer Science Department of JLU with average programming skills but good communication ability. He will try his best to be a responsible and nice team leader. (He is easy-going and passionate about working with you guys!)
+-  [Ziyu Sun](https://github.com/Zysun2002): A junior student from the Computer Science Department of JLU with average programming skills but good communication ability. He will try his best to be a responsible and nice team leader. (He is easy-going and passionate about working with you guys!)
 -  [Yuheng Zhou](https://github.com/zhouyuheng2003): Also called Henry, a junior student from the Computer Science Department of JLU. He has good programming skills and has won the gold medal in the ICPC regional competition. Though his current oral English level is moderate, he has a passion for exchanging ideas.
 
 |             | PM       | RA   | SA   | Developer | Tester | Liason |
