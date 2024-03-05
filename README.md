@@ -1,5 +1,3 @@
-![image](https://github.com/zhouyuheng2003/DSD2024/assets/96001530/3855450c-2e4c-4076-8189-bddd4f611181)# DSD2024
-
 2024.3.5: <font color = 'red'>**We are hiring self-motivated partners from UTAD!** </font>
 
 2024.3.4: Brief introduction of 4 team members from JLU ready.
