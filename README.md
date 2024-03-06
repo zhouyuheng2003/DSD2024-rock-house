@@ -12,15 +12,16 @@ This project is for DSD, 2024 Spring. We are aiming to design an intelligent <fo
 -  [Yuheng Zhou](https://github.com/zhouyuheng2003): Also called Henry, a junior student from the Computer Science Department of JLU. He has good programming skills and has won the gold medal in the ICPC regional competition. Though his current oral English level is moderate, he has a passion for exchanging ideas.
 -  [Haoyang Su](https://github.com/JluShy): He is a junior student at Jilin University, and his English name is Steve. While his English proficiency is moderate, he is passionate about engaging in communication and collaboration with others. He has previously served as the primary contributor in artificial intelligence-related projects.
 -  [Yuhai Li](https://github.com/yigeqianshuixiaobai): Also called Nick. He is a junior student from the Computer Science Department of JLU. He have moderate programming skills and have won the bronze medal in the ICPC regional competition. His English proficiency is average, but he will do his best to complete the tasks assigned to him.
+-  António Vieira
 
-|             | PM       | RA   | SA   | Developer | Tester | Liason |
-| ----------- | -------- | ---- | ---- | --------- | ------ | ------ |
-| Ziyu Sun    | &#10004; |      |      |           |        |        |
-| Haoyang Su  |          |      |      |           |        |        |
-| Yuhai Li    |          |      |      |           |        |        |
-| Yuheng Zhou |          |      |      |           |        |        |
-| pending     |          |      |      |           |        |        |
-| pending    |          |      |      |           |        |        |
+|                | PM       | RA   | SA   | Developer | Tester | Liason |
+| -----------    | -------- | ---- | ---- | --------- | ------ | ------ |
+| Ziyu Sun       | &#10004; |      |      |           |        |        |
+| Haoyang Su     |          |      |      |           |        |        |
+| Yuhai Li       |          |      |      |           |        |        |
+| Yuheng Zhou    |          |      |      |           |        |        |
+| António Vieira |          |      |      |           |        |        |
+| pending        |          |      |      |           |        |        |
 
 **We are looking forward to cooperating with 2 more friends from UTAD.** Member duties are negotiable with all the personnel in place. 
 
