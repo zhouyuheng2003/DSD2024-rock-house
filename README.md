@@ -15,7 +15,7 @@ This project is for DSD, 2024 Spring. We are aiming to design an intelligent <fo
 -  [Haoyang Su](https://github.com/JluShy): He is a junior student at Jilin University, and his English name is Steve. While his English proficiency is moderate, he is passionate about engaging in communication and collaboration with others. He has previously served as the primary contributor in artificial intelligence-related projects.
 -  [Yuhai Li](https://github.com/yigeqianshuixiaobai): Also called Nick. He is a junior student from the Computer Science Department of JLU. He have moderate programming skills and have won the bronze medal in the ICPC regional competition. His English proficiency is average, but he will do his best to complete the tasks assigned to him.
 -  [António Vieira](https://github.com/ToGregas)
--  Hugo Andrade
+-  [Hugo Andrade](https://github.com/ManWorf): He is a student in Informatic Engineering from UTAD with decent programing skills, a good english proficiency and a the desire to learn more and a good challenge. He will give is best to do a good work.
 
 |                | PM       | RA   | SA   | Developer | Tester | Liason |
 | -----------    | -------- | ---- | ---- | --------- | ------ | ------ |
