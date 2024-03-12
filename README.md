@@ -18,14 +18,14 @@ This project is for DSD, 2024 Spring. We are aiming to design an intelligent <fo
 -  [António Vieira](https://github.com/ToGregas): He is a  1st year electrical and computing engineering in UTAD. He is an easy to relate guy and one of his best skills is communicating with others. His English is good to the point he feels comfortable writing papers in English and will try his best to do any task he is given.
 -  [Hugo Andrade](https://github.com/ManWorf): He is a student in Informatic Engineering from UTAD with decent programing skills, a good english proficiency and a the desire to learn more and a good challenge. He will give his best to do a good work.
 
-|                | PM       | RA   | SA   | Developer | Tester | Liason |
-| -----------    | -------- | ---- | ---- | --------- | ------ | ------ |
-| Ziyu Sun       | &#10004; |      |      |           |        |        |
-| Yuheng Zhou    |          |      |      |           |        |        |
-| Yuhai Li       |          |      |      |           |        |        |
-| Haoyang Su     |          |      |      |           |        |        |
-| António Vieira |          |      |      |           |        |        |
-| Hugo Andrade   |          |      |      |           |        |        |
+|                | PM       | RA     | SA     | Developer | Tester | Liason |
+| -----------    | -------- |  ----  | ----   | --------- | ------ | ------ |
+| Ziyu Sun       | &#10004; |        |        |&#10004;   |        |&#10004;|
+| Yuheng Zhou    |          |&#10004;|        |&#10004;   |        |        |
+| Yuhai Li       |          |        |        |&#10004;   |&#10004;|        |
+| Haoyang Su     |          |        |&#10004;|           |&#10004;|        |
+| António Vieira |          |&#10004;|        |           |        |&#10004;|
+| Hugo Andrade   |          |        |&#10004;|&#10004;   |        |        |
 
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
