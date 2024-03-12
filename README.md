@@ -1,4 +1,6 @@
 ## News
+2024.3.12: We have a group meeting tonight. We have discussed the team roles and requirement analysis. We have updated the team role table. We can move on further. 
+
 2024.3.6: Cheers! We have six members all in place. We get our team name "Rock House" which is the home of Patrick Star in the cartoon "SpongeBob".
 
 2024.3.5: We are hiring self-motivated partners from UTAD!
