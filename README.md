@@ -1,7 +1,12 @@
 ## News
+
+2024.3.15: We have received the draft of the ‘Use Case Diagram’ and 'Software Requirements Specification'. After confirming the content, we provided some suggestions.
+
+2024.3.14: After two days of multiple version iterations, the final version of the file [Requirement Analysis from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Requirement%20Analysis%20from%20Android%20Group.docx) has been completed. In the whole process, PM provided the template, and two analyzing documents were provided by two RAs of our group. During the meeting, we discussed what other content we could add. After that, two RAs worked together to merge all the ideas into this one final version document.
+
 2024.3.12: We have a group meeting tonight. We have discussed the team roles and requirement analysis. We have updated the team role table. We can move on further. 
 
-2024.3.6: Cheers! We have six members all in place. We get our team name "Rock House" which is the home of Patrick Star in the cartoon "SpongeBob".
+2024.3.6: Cheers! We have six members in place. We get our team name "Rock House" which is the home of Patrick Star in the cartoon "SpongeBob".
 
 2024.3.5: We are hiring self-motivated partners from UTAD!
 
