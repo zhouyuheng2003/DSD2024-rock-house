@@ -11,11 +11,11 @@
 
 2024.3.21: We have a group meeting tonight. We are responsible for the System Architecture of the whole project, so we have discussed the 3 time periods of this work. Firstly, our group will finish a template before March 25th. Secondly, the template will be published and every group should refer to this template and finish their analysis work before April 1st. Thirdly our group will gather all the documents and merge them into one final version before April 5th. Besides, we discussed the format and tools. Finally, we can begin our task. 
 
-2024.3.18: We get the final vision of the ‘Use Case Diagram’ and 'Software Requirements Specification'. Today is the end of the Requirement Analysis Stage and the beginning of the System Architecture Stage.
+2024.3.18: We get the final vision of the ‘Use Case Diagram’ and '[Software Requirements Specification]'(https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Software%20Requirements%20Specification%20v1.3.md). Today is the end of the Requirement Analysis Stage and the beginning of the System Architecture Stage.
 
 2024.3.15: We have received the draft of the ‘Use Case Diagram’ and 'Software Requirements Specification'. After confirming the content, we provided some suggestions.
 
-2024.3.14: After two days of multiple version iterations, the final version of the file [Requirement Analysis from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Requirement%20Analysis%20from%20Android%20Group.docx) has been completed. In the whole process, PM provided the template, and two analyzing documents were provided by two RAs of our group. During the meeting, we discussed what other content we could add. After that, two RAs worked together to merge all the ideas into this one final version.
+2024.3.14: After two days of multiple version iterations, the final version of the file [Requirement Analysis from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Requirement%20Analysis%20from%20Android%20Group.pdf) has been completed. In the whole process, PM provided the template, and two analyzing documents were provided by two RAs of our group. During the meeting, we discussed what other content we could add. After that, two RAs worked together to merge all the ideas into this one final version.
 
 2024.3.12: We have a group meeting tonight. We have discussed the team roles and requirement analysis. We have updated the team role table. We can move on further. 
 
