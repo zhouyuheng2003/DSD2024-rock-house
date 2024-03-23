@@ -1,7 +1,9 @@
 ## Recent Update:
-* Update the structure of this website, add "Recent Update" and "Document".
+* Update the structure of this website, add "Recent Update".
 * Transform document with .docs format to .pdf format.
-* Update news since 2024.3.21
+* Update news (from 2024.3.18 to 2024.3.23) 
+
+* Add every group's link to "About this project"
 ## News
 2024.3.23: We have finished the first version of the System Architecture of the Android.
 
@@ -22,11 +24,21 @@
 2024.3.5: We are hiring self-motivated partners from UTAD!
 
 2024.3.4: Brief introduction of 4 team members from JLU ready.
-## Document
-
 ## About the Project
 
-This project is for DSD, 2024 Spring. We are aiming to design an intelligent <font color = 'red'>Treasure Exploration System </font>with users from multiple platforms. More information is coming soon after further discussion.   
+This project is for DSD, 2024 Spring. We are aiming to design an intelligent **Treasure Exploration System** with users from multiple platforms. More information is coming soon after further discussion.
+
+We are the **Android group**.
+
+There are 6 groups in this project and they are:
+|  Group Name   | Work       | Link       |
+| -----------   | ---------- |   -------- |
+|  Rock House   | Android    |[link](https://github.com/zhouyuheng2003/DSD2024)|
+|Better Call Li | Algorithm  |[link](https://github.com/baconjlu/better-call-Li)|
+|Brave ones     |Wechat APP  |[link](https://github.com/Divpeter/DSD2024.github.io)|
+|Dream, Share, Discover| Web APP |[link](https://github.com/zkc3783/dream-share-discover)|
+|Backrooms | Database |[link](https://github.com/Irodixy/Backrooms_dsd2024)|
+
 
 ## Team Member
 
