@@ -1,13 +1,8 @@
-## 🔔Recent Update:
-* Update the structure of this website, add "Recent Update".
-* Transform document with .docs format to .pdf format.
+## 🔔 Recent Update:
 * Update news (from 2024.3.18 to 2024.3.23) 
-
-* Add every group's link to "About this project"
-## 📻News
+* Add a blank space between emoji and content for each title.
+## 📻 News
 2024.3.23: We have finished the first version of the System Architecture of the Android.
-
-2024.3.23: We have finished the template of the System Architecture of the Android.
 
 2024.3.21: We have a group meeting tonight. We are responsible for the System Architecture of the whole project, so we have discussed the 3 time periods of this work. Firstly, our group will finish a template before March 25th. Secondly, the template will be published and every group should refer to this template and finish their analysis work before April 1st. Thirdly our group will gather all the documents and merge them into one final version before April 5th. Besides, we discussed the format and tools. Finally, we can begin our task. 
 
@@ -24,7 +19,7 @@
 2024.3.5: We are hiring self-motivated partners from UTAD!
 
 2024.3.4: Brief introduction of 4 team members from JLU ready.
-## 📖About the Project
+## 📖 About the Project
 
 This project is for DSD, 2024 Spring. We are aiming to design an intelligent **Treasure Exploration System** with users from multiple platforms. More information is coming soon after further discussion.
 
@@ -40,7 +35,7 @@ There are 6 groups in this project and they are:
 |Backrooms | Database |[link](https://github.com/Irodixy/Backrooms_dsd2024)|
 
 
-## 🧥Team Member
+## 🧥 Team Member
 
 -  [Ziyu Sun](Zysun2002@github.com "Zysun's github"): A junior student from the Computer Science Department of JLU with average programming skills but good communication ability. He will try his best to be a responsible and nice team leader. (He is easy-going and passionate about working with you guys!)
 -  [Yuheng Zhou](https://github.com/zhouyuheng2003): Also called Henry, a junior student from the Computer Science Department of JLU. He has good programming skills and has won the gold medal in the ICPC regional competition. Though his current oral English level is moderate, he has a passion for exchanging ideas.
@@ -60,7 +55,7 @@ There are 6 groups in this project and they are:
 
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
-## ✒️How to contribute to the webpage
+## ✒️ How to contribute to the webpage
 
 If you want to update the GitHub webpage, please follow the instructions:
 
