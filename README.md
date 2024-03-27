@@ -1,8 +1,13 @@
 ## 🔔 Recent Update:
-* Update news (from 2024.3.18 to 2024.3.23) 
+* Update news (from 2024.3.23 to 2024.3.27) 
 * Add a blank space between emoji and content for each title.
 ## 📻 News
-2024.3.23: We have finished the first version of the System Architecture of the Android.
+
+2024.3.27: RAs provide some advice to improve the specification and the diagram, the modification work is in progress.
+
+2024.3.26: We have finished the first version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Diagram.png). Our team leader have a meeting with other PMs.
+
+2024.3.23: We have finished the first version of the [Software Architecture Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Software%20Architecture%20Specification%20from%20Android%20Group%20v1.pdf).
 
 2024.3.21: We have a group meeting tonight. We are responsible for the System Architecture of the whole project, so we have discussed the 3 time periods of this work. Firstly, our group will finish a template before March 25th. Secondly, the template will be published and every group should refer to this template and finish their analysis work before April 1st. Thirdly our group will gather all the documents and merge them into one final version before April 5th. Besides, we discussed the format and tools. Finally, we can begin our task. 
 
