@@ -39,7 +39,7 @@ There are 6 groups in this project and they are:
 |Dream, Share, Discover| Web APP |[link](https://github.com/zkc3783/dream-share-discover)|
 |Backrooms | Database |[link](https://github.com/Irodixy/Backrooms_dsd2024)|
 
-Ciel is the TA of the course, and he has a lot of experience in completing this project. ([upload file to him](https://dsm.ciel.pro/sharing/zHhcgChco))
+Ciel is the TA of this course, and he has a lot of experience in arranging projects. ([upload file to him](https://dsm.ciel.pro/sharing/zHhcgChco))
 
 ## 🧥 Team Member
 
