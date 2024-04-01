@@ -40,11 +40,11 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 
 ## 📻 News
 
-2024.3.28:
+2024.3.28: We have finished the second version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/component%20diagram%20and%20class%20diagram.v2.pdf).
 
 2024.3.27: RAs provide some advice to improve the specification and the diagram, the modification work is in progress.
 
-2024.3.26: We have finished the first version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Diagram.png). Our team leader have a meeting with other PMs.
+2024.3.26: We have finished the first version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Diagram.png). Our team leader has a meeting with other PMs.
 
 2024.3.23: We have finished the first version of the [Software Architecture Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Software%20Architecture%20Specification%20from%20Android%20Group%20v1.pdf).
 
@@ -54,7 +54,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 
 2024.3.15: We have received the draft of the ‘Use Case Diagram’ and 'Software Requirements Specification'. After confirming the content, we provided some suggestions.
 
-2024.3.14: After two days of multiple version iterations, the final version of the file [Requirement Analysis from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Requirement%20Analysis%20from%20Android%20Group.pdf) has been completed. In the whole process, PM provided the template, and two analyzing documents were provided by two RAs of our group. During the meeting, we discussed what other content we could add. After that, two RAs worked together to merge all the ideas into this one final version.
+2024.3.14: After two days of multiple version iterations, the final version of the file [Requirement Analysis from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Requirement%20Analysis%20from%20Android%20Group.pdf) has been completed. In the whole process, PM provided the template, and two analyzing documents were provided by two RAs of our group. During the meeting, we discussed what other content we could add. After that, two RAs worked together to merge all the ideas into this final version.
 
 2024.3.12: We have a group meeting tonight. We have discussed the team roles and requirement analysis. We have updated the team role table. We can move on further. 
 
