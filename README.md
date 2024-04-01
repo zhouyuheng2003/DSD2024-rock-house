@@ -1,29 +1,6 @@
 ## 🔔 Recent Update:
-* Update news (from 2024.3.27 to 2024.3.27) 
+* Update news (from 2024.3.27 to 2024.4.1) 
 * Add Ciel to the introduction of the project.
-## 📻 News
-
-2024.3.27: RAs provide some advice to improve the specification and the diagram, the modification work is in progress.
-
-2024.3.26: We have finished the first version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Diagram.png). Our team leader have a meeting with other PMs.
-
-2024.3.23: We have finished the first version of the [Software Architecture Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Software%20Architecture%20Specification%20from%20Android%20Group%20v1.pdf).
-
-2024.3.21: We have a group meeting tonight. We are responsible for the System Architecture of the whole project, so we have discussed the 3 time periods of this work. Firstly, our group will finish a template before March 25th. Secondly, the template will be published and every group should refer to this template and finish their analysis work before April 1st. Thirdly our group will gather all the documents and merge them into one final version before April 5th. Besides, we discussed the format and tools. Finally, we can begin our task. 
-
-2024.3.18: We get the final vision of the '[Use Case Diagram](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Use%20Case%20Diagram.pdf)' and '[Software Requirements Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Software%20Requirements%20Specification%20v1.3.md)'. Today is the end of the Requirement Analysis Stage and the beginning of the System Architecture Stage.
-
-2024.3.15: We have received the draft of the ‘Use Case Diagram’ and 'Software Requirements Specification'. After confirming the content, we provided some suggestions.
-
-2024.3.14: After two days of multiple version iterations, the final version of the file [Requirement Analysis from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Requirement%20Analysis%20from%20Android%20Group.pdf) has been completed. In the whole process, PM provided the template, and two analyzing documents were provided by two RAs of our group. During the meeting, we discussed what other content we could add. After that, two RAs worked together to merge all the ideas into this one final version.
-
-2024.3.12: We have a group meeting tonight. We have discussed the team roles and requirement analysis. We have updated the team role table. We can move on further. 
-
-2024.3.6: Cheers! We have six members in place. We get our team name "Rock House" which is the home of Patrick Star in the cartoon "SpongeBob".
-
-2024.3.5: We are hiring self-motivated partners from UTAD!
-
-2024.3.4: Brief introduction of 4 team members from JLU ready.
 ## 📖 About the Project
 
 This project is for DSD, 2024 Spring. We are aiming to design an intelligent **Treasure Exploration System** with users from multiple platforms. More information is coming soon after further discussion.
@@ -60,6 +37,32 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 | Hugo Andrade   |          |        |&#10004;|&#10004;   |        |        |
 
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
+
+## 📻 News
+
+2024.3.28:
+
+2024.3.27: RAs provide some advice to improve the specification and the diagram, the modification work is in progress.
+
+2024.3.26: We have finished the first version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Diagram.png). Our team leader have a meeting with other PMs.
+
+2024.3.23: We have finished the first version of the [Software Architecture Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Software%20Architecture%20Specification%20from%20Android%20Group%20v1.pdf).
+
+2024.3.21: We have a group meeting tonight. We are responsible for the System Architecture of the whole project, so we have discussed the 3 time periods of this work. Firstly, our group will finish a template before March 25th. Secondly, the template will be published and every group should refer to this template and finish their analysis work before April 1st. Thirdly our group will gather all the documents and merge them into one final version before April 5th. Besides, we discussed the format and tools. Finally, we can begin our task. 
+
+2024.3.18: We get the final vision of the '[Use Case Diagram](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Use%20Case%20Diagram.pdf)' and '[Software Requirements Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Software%20Requirements%20Specification%20v1.3.md)'. Today is the end of the Requirement Analysis Stage and the beginning of the System Architecture Stage.
+
+2024.3.15: We have received the draft of the ‘Use Case Diagram’ and 'Software Requirements Specification'. After confirming the content, we provided some suggestions.
+
+2024.3.14: After two days of multiple version iterations, the final version of the file [Requirement Analysis from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Requirement%20Analysis%20from%20Android%20Group.pdf) has been completed. In the whole process, PM provided the template, and two analyzing documents were provided by two RAs of our group. During the meeting, we discussed what other content we could add. After that, two RAs worked together to merge all the ideas into this one final version.
+
+2024.3.12: We have a group meeting tonight. We have discussed the team roles and requirement analysis. We have updated the team role table. We can move on further. 
+
+2024.3.6: Cheers! We have six members in place. We get our team name "Rock House" which is the home of Patrick Star in the cartoon "SpongeBob".
+
+2024.3.5: We are hiring self-motivated partners from UTAD!
+
+2024.3.4: Brief introduction of 4 team members from JLU ready.
 
 ## ✒️ How to contribute to the webpage
 
