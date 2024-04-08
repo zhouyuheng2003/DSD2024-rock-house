@@ -1,6 +1,5 @@
 ## 🔔 Recent Update:
-* Update news (from 2024.3.27 to 2024.4.1) 
-* Add Ciel to the introduction of the project.
+* Update news (from 2024.4.1 to 2024.4.8) 
 * We have received the SA from DSD and Better Call Li. Really good job.
 ## 📖 About the Project
 
@@ -40,6 +39,9 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
+2024.4.7: We have completed the [SA Diagram]() for the whole project. 
+
+2024.4.1: We have received the SA Diagram from DSD and Better Call Li. Really good job.
 
 2024.3.28: We have finished the second version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/component%20diagram%20and%20class%20diagram.v2.pdf).
 
