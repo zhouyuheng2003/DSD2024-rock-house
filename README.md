@@ -39,7 +39,7 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
-2024.4.7: We have completed the [SA Diagram]() for the whole project. 
+2024.4.7: All the SA Diagram have been sent to us and we have completed the [SA Diagram]() for the whole project. 
 
 2024.4.1: We have received the SA Diagram from DSD and Better Call Li. Really good job.
 
@@ -47,7 +47,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 
 2024.3.27: RAs provide some advice to improve the specification and the diagram, the modification work is in progress.
 
-2024.3.26: We have finished the first version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Diagram.png). Our team leader has a meeting with other PMs.
+2024.3.26: We have finished the first version of the [Diagram of the Android Part](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Software%Architecture%Diagram%from%Android%Group.png). Our team leader has a meeting with other PMs.
 
 2024.3.23: We have finished the first version of the [Software Architecture Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Software%20Architecture%20Specification%20from%20Android%20Group%20v1.pdf).
 
