@@ -1,6 +1,5 @@
 ## 🔔 Recent Update:
 * Update news (from 2024.4.1 to 2024.4.8) 
-* We have received the SA from DSD and Better Call Li. Really good job.
 ## 📖 About the Project
 
 This project is for DSD, 2024 Spring. We are aiming to design an intelligent **Treasure Exploration System** with users from multiple platforms. More information is coming soon after further discussion.
@@ -43,7 +42,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 
 2024.4.8: We have finished the [Interface Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Interface%20Specification%20from%20Android%20Group%20v1.pdf).
 
-2024.4.7: All the SA Diagram have been sent to us and we have completed the [SA Diagram](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Software%20Architecture%20Component%20Diagram.png) for the whole project. 
+2024.4.7: All the SA Diagram have been sent to us and we have completed the [SA Diagram](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Software%20Architecture%20Component%20Diagram%20v2.png) for the whole project. 
 
 2024.4.1: We have received the SA Diagram from DSD and Better Call Li. Really good job.
 
