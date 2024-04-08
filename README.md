@@ -41,7 +41,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 ## 📻 News
 2024.4.8: We are collecting documents from other groups. The project documentation is expected to be written after the collection is done.
 
-2024.4.8: We have finished the [Interface Specification from Android Group]().
+2024.4.8: We have finished the [Interface Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Interface%20Specification%20from%20Android%20Group%20v1.pdf).
 
 2024.4.7: All the SA Diagram have been sent to us and we have completed the [SA Diagram](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Software%20Architecture%20Component%20Diagram.png) for the whole project. 
 
