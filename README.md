@@ -28,7 +28,7 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 
 |                | PM       | RA     | SA     | Developer | Tester | Liason |
 | -----------    | -------- |  ----  | ----   | --------- | ------ | ------ |
-| Ziyu Sun       | &#10004; |        |        |&#10004;   |        |&#10004;|
+| Ziyu Sun       | &#10004; |        |&#10004;|           |        |&#10004;|
 | Yuheng Zhou    |          |&#10004;|        |&#10004;   |        |        |
 | Yuhai Li       |          |        |        |&#10004;   |&#10004;|        |
 | Haoyang Su     |          |        |&#10004;|           |&#10004;|        |
