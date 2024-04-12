@@ -1,5 +1,5 @@
 ## 🔔 Recent Update:
-* Update news (from 2024.4.1 to 2024.4.8) 
+* Update news (from 2024.4.8 to 2024.4.10) 
 ## 📖 About the Project
 
 This project is for DSD, 2024 Spring. We are aiming to design an intelligent **Treasure Exploration System** with users from multiple platforms. More information is coming soon after further discussion.
@@ -38,6 +38,10 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
+<!-- 2024.4.10: We have finished the [Interface Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Interface%20Specification%20from%20Android%20Group%20v1.pdf) -->
+
+2024.4.10: We updated the [Interface Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Interface%20Specification%20from%20Android%20Group%20v3.pdf).
+
 2024.4.8: We are collecting documents from other groups. The project documentation is expected to be written after the collection is done.
 
 2024.4.8: We have finished the [Interface Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Interface%20Specification%20from%20Android%20Group%20v1.pdf).
