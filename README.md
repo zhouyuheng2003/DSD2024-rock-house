@@ -39,7 +39,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 
 ## 📻 News
 <!-- 2024.4.10: We have finished the [Interface Specification from Android Group](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Interface%20Specification%20from%20Android%20Group%20v1.pdf) -->
-2024.4.17：We updated the [Interface Specification v5] with the changes located in the end of the document. We are asking other teams to add more interface descriptions to help coding.
+2024.4.17：We updated the [Interface Specification v5](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.5.2.pdf) with the changes located in the end of the document. We are asking other teams to add more interface descriptions to help coding.
 
 2024.4.13: We divided the development work into three parts: profile, explore, and display. Three coders start their work.
 
