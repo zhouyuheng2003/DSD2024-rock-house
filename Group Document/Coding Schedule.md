@@ -14,14 +14,14 @@ The progress should be one of the following numbers:
 | -----------   | -----------   | ---------- |   -------- |-------- |
 | Interface 2 | Location | Henry    | 4 |  |
 | Interface 3 | Search Store | Henry    | 4 |  |
-| Interface 4,5 | Maintain Visited Stores | Henry    | 3 |  |
+| Interface 4,5 | Maintain Visited Stores | Henry    | 4 |  |
 | Interface 6 | Search Item | Henry    | 3 |  |
 | Interface 7 | Store Recommendation | Henry    | 3 |  |
 | Interface 8 | Store Feedback | Henry    | 4 |  |
-| Interface 9 | Item Feedback | Henry    | 1 |  |
-| Interface 1 | Login | Nick    | 1 |  |
-| Interface 10,11 | Update Customer Information  | Nick    | 1 |  |
-| Interface 12 | Registration  | Nick    | 1 |  |
+| Interface 9 | Item Feedback | Henry    | 3 |  |
+| Interface 1 | Login | Nick    | 2 |  |
+| Interface 10,11 | Update Customer Information  | Nick    | 2 |  |
+| Interface 12 | Registration  | Nick    | 2 |  |
 | Display map | Show Target Location On Map  | Hugo    | 4 |  |
 | Navigation | Provide Navigation Service By Map  | Hugo    | 3 |  |
 
