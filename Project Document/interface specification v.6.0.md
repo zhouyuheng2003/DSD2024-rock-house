@@ -607,7 +607,7 @@ return with
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
@@ -617,21 +617,40 @@ return with
         "type": "string",
     	"minLength": 1
     },
-    "HashedPassWord": {
+    "PassWord": {
         "type": "string",
-    	"minLength": 1
+    	"minLength": 1,
+        "maxLength": 6
     }
 }
+
+return with
+{
+    "InterfaceId":{
+        "type":"integer",
+        "minimum": 1,
+        "maximum": 32
+    },
+    "CurrentUser": {
+        "type": "string",
+        "minLength": 1,
+        "maxLength": 1
+    },
+    "MatchToken": {"type": "boolean"}
+}
 ~~~
 
-##### Interface 19	database::Registration ==> web::Registration
+* Description of the interface: This occurs when a new store owner attempts to register its account, which returns an indicator asserting whether the registration is successful.
+* Tip1: At the database end, if an existing store owner account holds the same username, the registration should be considered unsuccessful.
+
+##### Interface 19	database::Login ==> web::Login
 
 ~~~json
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
@@ -641,45 +660,41 @@ return with
         "type": "string",
     	"minLength": 1
     },
-    "HashedPassWord": {
+    "PassWord": {
         "type": "string",
-    	"minLength": 1
-    }
+    	"minLength": 1,
+        "maxLength": 6
+    },
 }
-~~~
 
-##### Interface 20	database::Login ==> web::Login
-
-~~~json
+return with
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
-        "minLength": 1
+        "minLength": 1,
+        "maxLength": 1
     },
-    "UserName": {
-        "type": "string",
-    	"minLength": 1
-    },
-    "HashedPassWord": {
-        "type": "string",
-    	"minLength": 1
-    },
+    "MatchToken": {"type": "boolean"}
 }
 ~~~
 
-##### Interface 21	web::Management ==> database::Administrator
+* Description of the interface: This takes place when a store owner or the administrator attempts to login to their accounts, which returns an indicator asserting whether the login process is successful.
+* Tip1: At the database end, if the username and the password match a registered account, the login should be considered successful.
+* Tip2: Currently the username of the administrator account is "admin", so the role of the user logged-in can be determined by the username.
+
+##### Interface 20	web::Management ==> database::Administrator
 
 ~~~json
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
@@ -696,249 +711,132 @@ return with
 }
 ~~~
 
-##### Interface 22	database::Administrator ==> web::Management
+* Description of the interface: This procedure describes when the administrator make changes to user or store data, which information will be transmit to the database.
+* Tip1: For easy implementation of data flow from the front-end to back-end, the transmission of user data, store info and item info(as a subclass of store info), can be implemented separately.
+* Tip2: This procedure is the same as the next Interface; the only difference is the direction of the dataflow.
+* Tip3: For any interface like this contains multiple classes, database can separate the class and implement with multiple steps of requests.
+
+##### Interface 21	database::Administrator ==> web::Management
 
 ~~~json
 {
     "InterfaceId": {
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
         "minLength": 1
     },
-    "UserData": {
+    "userData": {
     	"type": "object::User",
         "properties": "Illustrated in appendix"
     },
-	"StoreInfo": {
+	"storeInfo": {
     	"type": "object::Store",
         "properties": "Illustrated in appendix"
     }
 }
 ~~~
 
-##### Interface 23	database::Analytics ==> web::Analytics
+##### Interface 22	database::Analytics ==> web::Analytics
 
 ~~~json
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
         "minLength": 1
     },
-    "UserEngagementData": {
-        "type":"object::EngagementData",
-        "properties": "Illustrated in appendix"
-    },	
-    "Advice": {
-        "type": "string",
-        "miniumLength": 0
-    }
-}
-~~~
-
-+ Tip1 : Advice is the overall advice proposed by LLM to improve the whole system.
-
-##### Interface 24	database::Store ==> web::StoreOwner
-
-~~~json
-{
-    "InterfaceId":{
-        "type":"integer",
+    "avgRating": {
+        "type":"float",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 10
     },
-    "CurrentUser": {
-        "type": "string",
-        "minLength": 1
-    },
-    "Statistics": {
-    	"type": "object::Statistics",
-        "properties": "Illustrated in appendix"
-    }
-}
-~~~
-
-##### Interface 25	 web::StoreOwner ==> database::Store
-
-~~~json
-{
-    "InterfaceId":{
-        "type":"integer",
-        "minimum": 1,
-        "maximum": 33
-    },
-    "CurrentUser": {
-        "type": "string",
-        "minLength": 1
-    },
-    "StoreInfo": {
-    	"type": "object::StoreInfo",
-        "properties": "Illustrated in appendix"
-    }
-}
-~~~
-
-##### Interface 26	web::StoreInfo ==> database::Store
-
-~~~json
-{
-    "InterfaceId":{
-        "type":"integer",
-        "minimum": 1,
-        "maximum": 33
-    },
-    "CurrentUser": {
-        "type": "string",
-        "minLength": 1
-    },
-    "StoreName": {
-        "type": "string",
-        "minLength": 1
-    },
-	"Location" : {
-        "type": "object::Location",
-        "properties": "Illustrated in appendix"
-    },
-    "Items": {
+    "selectedComments":{
         "type": "array",
-        "items": {
-            "type": "object::Item",
-            "preperties": "Illustrated in appendix"
+    	"items": {
+            "type": "string"
         },
-        "minItems": 1,
-        "uniqueItems": true
-    }
+        "minItems": 1
+	},
+    "overallAdvice": {
+    	"type": "string",
+        "minLength": 1
+	}
 }
 ~~~
 
-Tip1: The UserName and Password of the store owner should be stored in "StoreInfo" class in database.  
+* Description of the interface: This describes the analytical data that is obtained by the administrator: "avgRating" means to the average rating of a specific store; "selectedComments" is a list consists of all the comment that have a lower rating of 2; "overallAdvice"  refers to a string that generated by algorithms, to be specific, the advice or advices provided by AI for systematic refinement.
+* Tip1: The implementation of "avgRating" can be consistent with how store info are obtained in the previous interface. The ultimate goal is to display a table listing stores alongside their ratings.
 
-##### Interface 27	web::User ==> database::Store
+##### Interface 23	database::Store ==> web::StoreOwner
 
 ~~~json
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
         "minLength": 1
     },
-    "UserName": {
-        "type": "string",
-    	"minLength": 1
+    "customerVisits": {
+		"type": "int",
+        "minimum" 0
     },
-    "HashedPassWord": {
-        "type": "string",
-    	"minLength": 1
+    "feedback": {
+    	"type": "object::Feedback",
+        "properties": "Illustrated in appendix"
     }
 }
 ~~~
 
-##### Interface 28	database::Store ==> web::User
+Description of the interface: This occurs when a store owner attempts to checking the statistics of the store. The content of the "statistics" class is provided in appendix. customerVisits can be simplified to the number of purchases happening in a store, while "feedback" refers to the feedbacks toward item happening after each single purchase.
+
+##### Interface 24	database::Store ==> web::StoreInfo
 
 ~~~json
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
         "minLength": 1
     },
-    "UserName": {
-        "type": "string",
-    	"minLength": 1
-    },
-    "HashedPassWord": {
-        "type": "string",
-    	"minLength": 1
-    }
-}
-~~~
-
-##### Interface 29	database::Feedback2Item ==> web::Feedback2Item
-
-~~~json
-{
-    "InterfaceId":{
-        "type":"integer",
-        "minimum": 1,
-        "maximum": 33
-    },
-    "CurrentUser": {
+    "storeName": {
         "type": "string",
         "minLength": 1
     },
-    "Feedback": {
-        "type": "object::Feedback2Item",
+    "Location": {
+        "type": "object:Location",
         "preperties": "Illustrated in appendix"
     }
 }
-~~~
 
-##### Interface 30	database::Item ==> web::Item
+return with
 
-~~~json
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
         "minLength": 1
     },
-    "Item": {
-        "type": "object:Item",
-        "preperties": "Illustrated in appendix"
-    }
-}
-~~~
-
-##### Interface 31	web::Item ==> database::Item
-
-~~~json
-{
-    "InterfaceId":{
-        "type":"integer",
-        "minimum": 1,
-        "maximum": 33
-    },
-    "CurrentUser": {
-        "type": "string",
-        "minLength": 1
-    },
-    "Item": {
-        "type": "object:Item",
-        "preperties": "Illustrated in appendix"
-    }
-}
-~~~
-
-##### Interface 32	database::Store ==> web::Location
-
-~~~json
-{
-    "InterfaceId":{
-        "type":"integer",
-        "minimum": 1,
-        "maximum": 33
-    },
-    "CurrentUser": {
+    "storeName": {
         "type": "string",
         "minLength": 1
     },
@@ -949,33 +847,49 @@ Tip1: The UserName and Password of the store owner should be stored in "StoreInf
 }
 ~~~
 
-##### Interface 33 database::Item ==> web::Statistics
+* Description of the interface: This procedure occurs when a store owner wants to access his store info (other than items) and update it if needed.
+
+* Tip1: The UserName and Password (store owner as a user to the system) of the store owner should be stored in "StoreInfo" class in database.  
+
+##### Interface 25	database::Item ==> web::Item
 
 ~~~json
 {
     "InterfaceId":{
         "type":"integer",
         "minimum": 1,
-        "maximum": 33
+        "maximum": 32
     },
     "CurrentUser": {
         "type": "string",
         "minLength": 1
     },
-    "CustomerVisits": {
-        "type": "integer"
+    "item": {
+        "type": "object:Item",
+        "preperties": "Illustrated in appendix"
+    }
+}
+
+return with
+
+{
+    "InterfaceId":{
+        "type":"integer",
+        "minimum": 1,
+        "maximum": 32
     },
-	"Feedbacks": {
-        "type": "array",
-        "items": {
-            "type": "object::Feedback2Item",
-            "preperties": "Illustrated in appendix"
-        },
-        "minItems": 1,
-        "uniqueItems": true
+    "CurrentUser": {
+        "type": "string",
+        "minLength": 1
+    },
+    "item": {
+        "type": "object:Item",
+        "preperties": "Illustrated in appendix"
     }
 }
 ~~~
+
+Description of the interface: This procedure occurs when a store owner wants to access his items' information and update it if needed.
 
 
 
@@ -1227,3 +1141,4 @@ Tip1: The UserName and Password of the store owner should be stored in "StoreInf
    1. Feedback2Store is used to give feedback to the recommendation results (a store) and helps optimize recommendation algorithm.
    2. Feedback2Item is used to give feedback to the purchased item and helps stores to offer better service.\
 4. We have updated the description of the algorithm group.
+5. The web group modified some interfaces and added description.
