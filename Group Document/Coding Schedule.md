@@ -14,7 +14,7 @@ The progress should be one of the following numbers:
 | -----------   | -----------   | ---------- |   -------- |-------- |
 | Interface 2 | Location | Henry    | 4 |  |
 | Interface 3 | Search Store | Henry    | 4 |  |
-| Interface 4,5 | Maintain Visited Stores | Henry    | 1 |  |
+| Interface 4,5 | Maintain Visited Stores | Henry    | 3 |  |
 | Interface 6 | Search Item | Henry    | 3 |  |
 | Interface 7 | Store Recommendation | Henry    | 3 |  |
 | Interface 8 | Store Feedback | Henry    | 4 |  |
