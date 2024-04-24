@@ -44,7 +44,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 2. Update the "Interests" items.
 
 
-2024.4.24：[Gantt Diagram](//github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/gantt.png) Updated. Later than expected by quite a bit though.https:/
+2024.4.24：[Our Gantt Diagram](//github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/gantt.png) is ready. Later than expected by quite a bit though.
 
 2024.4.24：Latest update of Interface Specification from v.5 to v.6.2:
   1. Add the 'VisitTime' to HuntedList.
