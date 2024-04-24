@@ -39,6 +39,7 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
+2024.4.24：We update the [Interface Specification v7]()
 2024.4.24：[Gantt Diagram](//github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/gantt.png) Updated. Later than expected by quite a bit though.https:/
 
 2024.4.24：Latest update of Interface Specification from v.5 to v.6.2:
