@@ -1,5 +1,5 @@
 ## 🔔 Recent Update:
-* Update [Interface Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.1.md)
+* We want to make sure the [Latest Interface Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.1.md) is always available. 
 * Update [Group Coding Schedule](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Coding%20Schedule.md)
 ## 📖 About the Project
 
