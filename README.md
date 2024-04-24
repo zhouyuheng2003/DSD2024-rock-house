@@ -39,6 +39,8 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
+2024.4.24：Gantt Diagram Updated. Later than expected by quite a bit though.
+
 2024.4.24：Latest update of Interface Specification from v.5 to v.6.2:
   1. Add the 'VisitTime' to HuntedList.
   2. Add Algorithm interfaces to deal with feedback.
