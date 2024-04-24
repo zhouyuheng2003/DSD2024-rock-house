@@ -39,7 +39,7 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
-2024.4.24：We update the [Interface Specification v6.3](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.3.md). Hopefully this could be the final one(for first iteration):
+2024.4.24：We update the [Interface Specification v6.3](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.3.md). Hopefully this could be the final one(for the first iteration):
 1. Unpacking the encapsulated data interfaces of Web.
 2. Update the "Interests" items.
 
