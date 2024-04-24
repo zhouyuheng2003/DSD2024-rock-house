@@ -38,6 +38,7 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
+2024.4.22：We updated the [Interface Specification v6](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.0.md) with the changes located in the end of the document.
 
 2024.4.17：We updated the [Interface Specification v5](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.5.2.pdf) with the changes located in the end of the document. We are asking other teams to add more interface descriptions to help coding.
 
