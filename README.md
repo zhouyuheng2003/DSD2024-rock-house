@@ -39,7 +39,17 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
-2024.4.24：We updated the [Interface Specification v6.1](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.1.md) with the changes located in the end of the document.
+2024.4.24：Latest update of Interface Specification from v.5 to v.6.2:
+  1. Add the 'VisitTime' to HuntedList.
+  2. Add Algorithm interfaces to deal with feedback.
+  3. Specify the two kind of feedback:
+    (1) Feedback2Store is used to give feedback to the recommendation results (a store) and helps optimize recommendation algorithm.
+    (2) Feedback2Item is used to give feedback to the purchased item and helps stores to offer better service.
+  4. Update the description of the algorithm group.
+  5. The web group modified some interfaces and added description.
+  6. The interests have been changed from integer array to string.
+  7. The interface one return an additional "interests". 
+  8. Add "Interests" and "HuntedStoreList" to object::User.
 
 2024.4.22：We updated the [Interface Specification v6](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.0.md) with the changes located in the end of the document.
 
