@@ -1,5 +1,5 @@
 ## 🔔 Recent Update:
-* We want to make sure the [Latest Interface Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.3.md) is always available. 
+* We want to make sure the [Latest Interface Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.4.md) is always available. 
 * Update [Group Coding Schedule](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Coding%20Schedule.md)
 ## 📖 About the Project
 
@@ -39,7 +39,10 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
-2024.4.24：We update the [Interface Specification v6.3](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.3.md). Hopefully this could be the final one(for the first iteration):
+2024.4.26: It's a pitty that we are still updating the  [Interface Specification v.6.4]. We are trying to make the minimum change and notify the relevant groups with each updates.
+1. In Feedback2Item and Feeback2Store, the "Item" and "Store" have been changed to "ItemId" and "StoreId".
+
+2024.4.24：We update the [Interface Specification v.6.3](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.3.md). Hopefully this could be the final one(for the first iteration):
 1. Unpacking the encapsulated data interfaces of Web.
 2. Update the "Interests" items.
 
