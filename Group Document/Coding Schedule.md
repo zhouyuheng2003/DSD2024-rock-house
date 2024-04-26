@@ -13,17 +13,21 @@ The progress should be one of the following numbers:
 |  Function  | Description | Owner       | Progress       | Notes |
 | -----------   | -----------   | ---------- |   -------- |-------- |
 | Interface 2 | Location | Henry    | 5 |  |
-| Interface 3 | Search Store | Henry    | 5 |  |//补充显示物品
+| Interface 3 | Search Store | Henry    | 5 |  |
 | Interface 4,5 | Maintain Visited Stores | Henry    | 5 |  |
-| Interface 6 | Search Item | Henry    | 5 |  |//补充显示商店，显示图片
-| Interface 7 | Store Recommendation | Henry    | 3 |  |//updateRecommendStoreList
-| Interface 8 | Store Feedback | Henry    | 4 |  |//发送给数据库
-| Interface 9 | Item Feedback | Henry    | 4 |  |//发送给数据库
+| Interface 6 | Search Item | Henry    | 5 |  |
+| Interface 7 | Store Recommendation | Henry    | 5 |  |
+| Interface 8 | Store Feedback | Henry    | 5 |  |
+| Interface 9 | Item Feedback | Henry    | 5 |  |
 | Interface 1 | Login | Nick    | 5 |  |
 | Interface 10,11 | Update Customer Information  | Nick    | 5 |  |
 | Interface 12 | Registration  | Nick    | 5 |  |
-| Display map | Show Target Location On Map  | Hugo    | 4 |  |
-| Navigation | Provide Navigation Service By Map  | Hugo    | 3 |  |
+| Display map | Show Target Location On Map  | Hugo    | 5 |  |
+| Navigation | Provide Navigation Service By Map  | Hugo    | 4 |  |
 
+Todo list:
 
-//store 的item
+1. Update interface.
+2. Merging login system.
+3. Set waiting sign.
+
