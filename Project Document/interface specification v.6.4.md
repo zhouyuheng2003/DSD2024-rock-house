@@ -399,10 +399,6 @@ return with
        	"items": "string",
         "minimumlength": 1
     }
-    "CurrentLocation":{
-        "type": "object::Location",
-        "properties": "Illustrated in appendix"
-    }
 }
 ```
 
