@@ -41,6 +41,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
 ## 📻 News
 2024.4.26: It's a pitty that we are still updating the  [Interface Specification v.6.4](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.4.md). We are trying to make the minimum change and notify the relevant groups with each updates.
 1. In Feedback2Item and Feeback2Store, the "Item" and "Store" have been changed to "ItemId" and "StoreId".
+2. The interface 5 and interface 11 will be first called by front end and then be responded by the database.
 
 2024.4.24：We update the [Interface Specification v.6.3](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.3.md). Hopefully this could be the final one(for the first iteration):
 1. Unpacking the encapsulated data interfaces of Web.
