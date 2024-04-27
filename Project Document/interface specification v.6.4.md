@@ -171,11 +171,19 @@ return with
         "type": "string",
         "minLength": 1
     },
-    "HuntedStoreIdList": {
+"HuntedStoreIdList": {
         "type": "array",
         "items": {
-            "type": "integer",
-         	"minimum": 0
+            "type": "HistoryVisit",
+         	"properties": {
+                "StoreId": {
+                    "type": "integer",
+                    "minimum": 0
+                },
+                "VisitTime": {
+                    "type": "data-time"
+                }
+            }
         },
         "minItems": 0,
         "uniqueItems": true
