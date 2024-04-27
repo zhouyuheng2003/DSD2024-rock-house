@@ -158,9 +158,24 @@ return with
 
 + Description of the interface: When a user browses new stores, they need to provide the HuntedStoreIdList to the database for updating the content stored in the database.
 
-##### Interface 5	database::HuntedStore ==> frontend::HuntedStore
+##### Interface 5	frontend::HuntedStore==>database::HuntedStore 
 
 ```json
+{
+    "InterfaceId":{
+        "type":"integer",
+        "minimum": 1,
+        "maximum": 33
+    },
+    "CurrentUser": {
+        "type": "string",
+        "minLength": 1
+    }
+}
+
+
+return with
+
 {
  	"InterfaceId":{
         "type":"integer",
@@ -171,7 +186,7 @@ return with
         "type": "string",
         "minLength": 1
     },
-"HuntedStoreIdList": {
+    "HuntedStoreIdList": {
         "type": "array",
         "items": {
             "type": "HistoryVisit",
@@ -192,6 +207,7 @@ return with
 ```
 
 + Tips1: This is for displaying the HuntedList.
++ Tips2: This interface should be called by front end and then be responded by database.
 + Description of the interface: When a user needs to view their browsing history, the database provides information about the HuntedStoreIdList to the front end.
 
 ##### Interface 6	frontend::Item ==> database:Item
@@ -371,9 +387,23 @@ return with
 + Tip2: Interests are users' preference used recommendation.
 + Description of the interface: When a user wishes to update their information, they provide the database with new details such as Birthday, Interests, and CurrentLocation. It should be noted that for security reasons, before updating the information, the user needs to re-enter their Username and Password for verification.
 
-##### Interface11	database::Customer ==> frontend:: Customer
+##### Interface 11	frontend:: Customer==>database::Customer
 
 ```json
+{
+	"InterfaceId":{
+        "type":"integer",
+        "minimum": 1,
+        "maximum": 33
+    },
+    "CurrentUser": {
+        "type": "string",
+        "minLength": 1
+    }
+}
+
+return with
+
 {
 	"InterfaceId":{
         "type":"integer",
@@ -1410,3 +1440,4 @@ return with
 #### update from v.6.3 to v.6.4:
 
 1. In Feedback2Item and Feeback2Store, the "Item" and "Store" have been changed to "ItemId" and "StoreId".
+1. The interface 5 and interface 11 will be first called by front end and then be responded by the database.
