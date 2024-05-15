@@ -1311,4 +1311,4 @@ return with
 
 #### update from v.6.6 to v.7.0:
 
-1. In Interface 7, we add a BBSID. BBSID is the Basic Service Set IDentifier, used to identify the owner (typically a shop) of the the WIFI. This can help identifying which shop the user is close to.
+1. In Interface 7, we add a BBSIDList. BBSID is the Basic Service Set IDentifier, used to identify the owner (typically a shop) of the the WIFI. This can help identifying which shop the user is close to.
