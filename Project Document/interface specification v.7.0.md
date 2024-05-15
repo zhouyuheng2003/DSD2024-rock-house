@@ -278,7 +278,7 @@ return with
         "minimum": 1,
         "maximum": 2
     },
-    "BBSIDList": {
+    "BSSIDList": {
         "type": "array",
         "items": {
             "type":"string",
@@ -315,7 +315,7 @@ return with
 ```
 
 + Description of the interface: RequestType=1 means this a request searching for nearby stores provided with "MyLocation".   RequestType=2 means this is a request for a list recommended stores. The user provides the RequestType and MyLocation to the database to obtain the needed StoreList.
-+ BBSID is the Basic Service Set IDentifier, used to identify the owner (typically a shop) of the the WIFI. This can help identifying which shop the user is close to.
++ BSSID is the Basic Service Set IDentifier, used to identify the owner (typically a shop) of the the WIFI. This can help identifying which shop the user is close to.
 
 ##### Interface 8	frontend::Feedback2Store ==> database::Feedback2Store
 
@@ -1311,4 +1311,4 @@ return with
 
 #### update from v.6.6 to v.7.0:
 
-1. In Interface 7, we add a BBSIDList. BBSID is the Basic Service Set IDentifier, used to identify the owner (typically a shop) of the the WIFI. This can help identifying which shop the user is close to.
+1. In Interface 7, we add a BSSIDList. BBSID is the Basic Service Set IDentifier, used to identify the owner (typically a shop) of the the WIFI. This can help identifying which shop the user is close to.
