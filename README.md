@@ -39,6 +39,8 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
+2024.5.20： We have made a visualization of the Recommendation and Feedback process with a [data flow graph](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Data Flow Graph.png).
+
 2024.5.15： Now we are entering the second iteration for SA. We update the [Interface Specification v.7.0](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.7.0.md) with WIFI function.
 
 2024.4.26: It's a pitty that we are still updating the  [Interface Specification v.6.4](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.6.4.md). We are trying to make the minimum change and notify the relevant groups with each updates.
