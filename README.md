@@ -1,5 +1,5 @@
 ## 🔔 Recent Update:
-* We want to make sure the [Latest Interface Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.7.0.md) is always available. 
+* We want to make sure the [Latest Interface Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.7.1.md) is always available. 
 * Update [Group Coding Schedule](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Coding%20Schedule.md)
 ## 📖 About the Project
 
@@ -39,6 +39,8 @@ Ciel is the TA of this course, and he has a lot of experience in arranging proje
 Our team consists of four students from JLU and two students from UTAD. Member duties will be determined through discussion.
 
 ## 📻 News
+2024.5.22： Our coder Henry had a meeting with Database group and brought contributive ideas to the interface spacification documents. Together with some changes from Web group, we update the [Interface Specification v.7.1](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.7.1.md)
+
 2024.5.20： We have made a visualization of the Recommendation and Feedback process with a [data flow graph](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/Data%20Flow%20Graph.png).
 
 2024.5.15： Now we are entering the second iteration for SA. We update the [Interface Specification v.7.0](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.7.0.md) with WIFI function.
