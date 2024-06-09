@@ -1,6 +1,5 @@
 ## 🔔 Recent Update:
-* We want to make sure the [Latest Interface Specification](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Project%20Document/interface%20specification%20v.7.1.md) is always available. 
-* Update [Group Coding Schedule](https://github.com/zhouyuheng2003/DSD2024-rock-house/blob/main/Group%20Document/Coding%20Schedule.md)
+* Cheers! We have completed this project.
 ## 📖 About the Project
 
 This project is for DSD, 2024 Spring. We are aiming to design an intelligent **Treasure Exploration System** with users from multiple platforms. More information is coming soon after further discussion.
@@ -61,6 +60,7 @@ Our team consists of four students from JLU and two students from UTAD. Member d
   1. Add the 'VisitTime' to HuntedList.
   2. Add Algorithm interfaces to deal with feedback.
   3. Specify the two kind of feedback:
+
     (1) Feedback2Store is used to give feedback to the recommendation results (a store) and helps optimize recommendation algorithm.
     (2) Feedback2Item is used to give feedback to the purchased item and helps stores to offer better service.
   4. Update the description of the algorithm group.
